@@ -1,2 +1,10 @@
+node_modules/
+
+# Additional entries
 aug-09/
-aug-16/
+node_modules/
+package-lock.json
+package.json
+README.md
+
+sept-06/index.js
